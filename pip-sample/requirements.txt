@@ -1,3 +1,4 @@
+--index-url http://localhost:8081/artifactory/api/pypi/pypi-local/simple
 bleach==2.1.4
 certifi==2018.8.24
 chardet==3.0.4
